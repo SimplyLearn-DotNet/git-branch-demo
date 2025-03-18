@@ -1,5 +1,5 @@
 feature1+bugfix1
-feature2
+feature2 + bugfix2
 1StName
 feature3
 3Name
